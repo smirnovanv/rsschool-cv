@@ -26,8 +26,8 @@ I'm planning to get back to development with **React** or **Vue/Angular**, as it
 ### **Skills**
 
 - JavaScript, Typescript
-- Frontend: React and TS projects without frameworks
-- Backend: Node.js with Nest
+- Front-end: React and TS projects without frameworks
+- Back-end: Node.js with Nest
 - npm package development
 - HTML and CSS (cross-browser and adaptive)
 - Unit tests: jasmine, jest
@@ -39,7 +39,7 @@ I'm planning to get back to development with **React** or **Vue/Angular**, as it
 
 ### **Experience**
 
-May 2021 - March 2022 - _Akvelon_, Frontend Developer
+May 2021 - March 2022 - _Akvelon_, Front-end Developer
 
 ---
 
@@ -63,5 +63,12 @@ May 2021 - March 2022 - _Akvelon_, Frontend Developer
 ---
 
 ### **Code Example**
+
+```
+function disemvowel(str) {
+  str = str.replace(/[oaeiu]/gi, '');
+  return str;
+}
+```
 
 ---
