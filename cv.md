@@ -39,7 +39,7 @@ I'm planning to get back to development with **React** or **Vue/Angular**, as it
 
 ### **Experience**
 
-May 2021 - March 2022 - Akvelon, Frontend Developer
+May 2021 - March 2022 - _Akvelon_, Frontend Developer
 
 ---
 
@@ -55,6 +55,10 @@ May 2021 - March 2022 - Akvelon, Frontend Developer
 ---
 
 ### **Languages**
+
+- **English:** B2 - C1 (upper-intermediate/ advanced)
+- **German:** B1 (basic)
+- **Russian:** native
 
 ---
 
