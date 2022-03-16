@@ -1,17 +1,23 @@
 # Natalya Smirnova
 
-## Frontend Developer
+## **Frontend Developer**
 
-### Contact Information
+### **Contact Information**
 
-### About myself
+**Phone:** +79051052228
 
-### Skills
+**E-mail:** smirnovanv89@gmail.com
 
-### Experience
+**Telegram:** @Zig_Zaggggg
 
-### Courses
+### **About myself**
 
-### Languages
+### **Skills**
 
-### Code Example
+### **Experience**
+
+### **Courses**
+
+### **Languages**
+
+### **Code Example**
