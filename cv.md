@@ -2,6 +2,8 @@
 
 ## **Frontend Developer**
 
+---
+
 ### **Contact Information**
 
 **Phone:** +79051052228
@@ -10,14 +12,30 @@
 
 **Telegram:** @Zig_Zaggggg
 
+**GitHub:** https://github.com/smirnovanv
+
+---
+
 ### **About myself**
+
+---
 
 ### **Skills**
 
+---
+
 ### **Experience**
+
+---
 
 ### **Courses**
 
+---
+
 ### **Languages**
 
+---
+
 ### **Code Example**
+
+---
