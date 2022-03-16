@@ -25,13 +25,25 @@ I'm planning to get back to development with **React** or **Vue/Angular**, as it
 
 ### **Skills**
 
+- JavaScript, Typescript
+- Frontend: React and TS projects without frameworks
+- Backend: Node.js with Nest
+- npm package development
+- HTML and CSS (cross-browser and adaptive)
+- Unit tests: jasmine, jest
+- WebPack
+- Docker
+- Figma, Photoshop
+
 ---
 
 ### **Experience**
 
+May 2021 - March 2022 - Akvelon, Frontend Developer
+
 ---
 
-### **Courses**
+### **Education & Courses**
 
 ---
 
