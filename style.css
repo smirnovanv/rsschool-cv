@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .main-container {
     width: 80%;
     margin-right: auto;
@@ -15,4 +20,22 @@
 
 .workplace {
     list-style: none;
+}
+
+.footer {
+    background-color: #a1795e;
+    padding: 10px 0;
+    width: 100%;
+    position: sticky;
+    bottom: 0;
+}
+
+.footer-content {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
 }
