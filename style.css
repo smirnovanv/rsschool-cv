@@ -1,0 +1,18 @@
+.main-container {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.main-header {
+    color: #a1795e;
+  }
+
+.workplaces-list {
+    padding: 0;
+    margin: 0;
+}
+
+.workplace {
+    list-style: none;
+}
